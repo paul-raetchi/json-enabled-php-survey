@@ -1,0 +1,33 @@
+{
+	"Formular demonstrativ \"a la Paul\"":
+		{
+			"Care este prima intrebare?":
+				{
+					"Varianta 1 e cea mai buna.":"check"
+				},
+			"Care este a doua intrebare?":
+				{
+					"Varianta 1":"check",
+					"Varianta 2":"check",
+					"Varianta 3":"radio",
+					"Varianta 4":"radio",
+					"Varianta 5":"radio"
+				},
+			"Care este a treia intrebare?":
+				{
+					"Spune-ti parerea sincera":"text",
+					"Chiar ai fost sincer/a?":"check"
+				},
+			"Intrebarea a patra":
+				{
+					"test.jpg":"image",
+					"Foloseste, totusi, un limbaj adecvat":"note",
+					"Ce vezi aici? Scrie ce vrei!":"bigtext"
+				},
+			"Intrebarea a cincea":
+				{
+					"Istoria lumii (rezumat)":"biggertext",
+					"Esti multumit de bullshit?":"slider"
+				}
+		}
+}
